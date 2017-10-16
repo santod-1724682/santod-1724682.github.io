@@ -1,0 +1,38 @@
+body{
+	background-image: url('footer_lodyas.png');
+	color: white;
+}
+
+h2{
+	font-family: 'Impact';
+	font-weight: bold;
+	font-size: 60px;
+	margin-left: 660px;
+	margin-right: 668px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	border: solid 5px white;
+	background-color: black;
+	
+}
+
+label{
+	font-family: 'Verdana';
+	font-size: 20px;
+
+}
+
+legend{
+	margin-left: 760px;
+	text-align: center;
+	font-size: 32px;
+	border: solid 8px white;
+	background-color: black;
+}
+
+img{
+	width: 300px;
+	height: 100px;
+	float: right;
+	margin-top: -100px;
+}
